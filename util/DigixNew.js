@@ -1,4 +1,5 @@
-version": "1.0.0",
+name": karma_s",
+  "version": "1.0.0",
   "description": karma_s WhatsApp Bot 鈥� a powerful, fun and intelligent bot packed with extra features, AI capabilities and a sleek futuristic design",
   "main": "index.js",
   "type": "module",
@@ -25,4 +26,4 @@ version": "1.0.0",
     "file-type": "^19.0.0",
     "form-data": "^4.0.1"
   },
-  "author": karma_s"
+  "author": karma_s
